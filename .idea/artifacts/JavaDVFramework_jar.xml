@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JavaDVFramework:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JavaDVFramework_jar</output-path>
+    <root id="archive" name="JavaDVFramework.jar">
+      <element id="module-output" name="JavaDVFramework" />
+    </root>
+  </artifact>
+</component>
